@@ -20,3 +20,4 @@ The Report contain 4 parts from different point of view
   * Monthly Status?
 
 https://docs.microsoft.com/en-us/previous-versions/windows/desktop/bb410149(v=vs.85)
+https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-WSUSAR/%5BMS-WSUSAR%5D.pdf
